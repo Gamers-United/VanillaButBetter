@@ -1,0 +1,1456 @@
+ERROR: system: Crop is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Saw
+INFO: Removing recipe for Bookshelf
+INFO: Removing recipe for Cauldron
+INFO: Removing recipe for Minecart
+INFO: Removing recipe for Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Iron Saw
+INFO: Removing recipe for Diamond Saw
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Framing Saw
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Reactor Chamber
+INFO: Removing recipe for Steam Reactor Chamber
+INFO: Removing recipe for Mass Fabricator
+INFO: Removing recipe for Induction Furnace
+INFO: Removing recipe for BatBox
+INFO: Removing recipe for MFE
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electronic Circuit
+INFO: Removing recipe for Nuclear Reactor
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Combustion Engine
+INFO: Removing recipe for Creative Engine
+INFO: Removing recipe for Wrench
+INFO: Removing recipe for Chisel
+INFO: Removing recipe for Diamond Chisel
+INFO: Removing recipe for Obsidian Chisel
+INFO: Removing recipe for Knapsack
+INFO: Removing recipe for Better Barrel
+INFO: Removing recipe for Crafting Table
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Saw
+INFO: Removing recipe for Bookshelf
+INFO: Removing recipe for Cauldron
+INFO: Removing recipe for Minecart
+INFO: Removing recipe for Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Iron Saw
+INFO: Removing recipe for Diamond Saw
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Framing Saw
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Reactor Chamber
+INFO: Removing recipe for Steam Reactor Chamber
+INFO: Removing recipe for Mass Fabricator
+INFO: Removing recipe for Induction Furnace
+INFO: Removing recipe for BatBox
+INFO: Removing recipe for MFE
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electronic Circuit
+INFO: Removing recipe for Nuclear Reactor
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Combustion Engine
+INFO: Removing recipe for Creative Engine
+INFO: Removing recipe for Wrench
+INFO: Removing recipe for Chisel
+INFO: Removing recipe for Diamond Chisel
+INFO: Removing recipe for Obsidian Chisel
+INFO: Removing recipe for Knapsack
+INFO: Removing recipe for Better Barrel
+INFO: Removing recipe for Crafting Table
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Saw
+INFO: Removing recipe for Bookshelf
+INFO: Removing recipe for Cauldron
+INFO: Removing recipe for Minecart
+INFO: Removing recipe for Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Iron Saw
+INFO: Removing recipe for Diamond Saw
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Framing Saw
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Reactor Chamber
+INFO: Removing recipe for Steam Reactor Chamber
+INFO: Removing recipe for Mass Fabricator
+INFO: Removing recipe for Induction Furnace
+INFO: Removing recipe for BatBox
+INFO: Removing recipe for MFE
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electronic Circuit
+INFO: Removing recipe for Nuclear Reactor
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Combustion Engine
+INFO: Removing recipe for Creative Engine
+INFO: Removing recipe for Wrench
+INFO: Removing recipe for Chisel
+INFO: Removing recipe for Diamond Chisel
+INFO: Removing recipe for Obsidian Chisel
+INFO: Removing recipe for Knapsack
+INFO: Removing recipe for Better Barrel
+INFO: Removing recipe for Crafting Table
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Iron Ingot
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Saw
+INFO: Removing recipe for Bookshelf
+INFO: Removing recipe for Cauldron
+INFO: Removing recipe for Minecart
+INFO: Removing recipe for Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Iron Saw
+INFO: Removing recipe for Diamond Saw
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Framing Saw
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Reactor Chamber
+INFO: Removing recipe for Steam Reactor Chamber
+INFO: Removing recipe for Mass Fabricator
+INFO: Removing recipe for Induction Furnace
+INFO: Removing recipe for BatBox
+INFO: Removing recipe for MFE
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electronic Circuit
+INFO: Removing recipe for Nuclear Reactor
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Combustion Engine
+INFO: Removing recipe for Creative Engine
+INFO: Removing recipe for Wrench
+INFO: Removing recipe for Chisel
+INFO: Removing recipe for Diamond Chisel
+INFO: Removing recipe for Obsidian Chisel
+INFO: Removing recipe for Knapsack
+INFO: Removing recipe for Better Barrel
+INFO: Removing recipe for Crafting Table
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Iron Ingot
+INFO: Removing recipe for Copper Ingot
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Refined Uranium Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Saw
+INFO: Removing recipe for Bookshelf
+INFO: Removing recipe for Cauldron
+INFO: Removing recipe for Minecart
+INFO: Removing recipe for Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Iron Saw
+INFO: Removing recipe for Diamond Saw
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Framing Saw
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Reactor Chamber
+INFO: Removing recipe for Steam Reactor Chamber
+INFO: Removing recipe for Mass Fabricator
+INFO: Removing recipe for Induction Furnace
+INFO: Removing recipe for BatBox
+INFO: Removing recipe for MFE
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electronic Circuit
+INFO: Removing recipe for Nuclear Reactor
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Combustion Engine
+INFO: Removing recipe for Creative Engine
+INFO: Removing recipe for Wrench
+INFO: Removing recipe for Chisel
+INFO: Removing recipe for Diamond Chisel
+INFO: Removing recipe for Obsidian Chisel
+INFO: Removing recipe for Knapsack
+INFO: Removing recipe for Better Barrel
+INFO: Removing recipe for Crafting Table
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Iron Ingot
+INFO: Removing recipe for Copper Ingot
+INFO: Removing recipe for Refined Uranium Ingot
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Refined Uranium Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Saw
+INFO: Removing recipe for Bookshelf
+INFO: Removing recipe for Cauldron
+INFO: Removing recipe for Minecart
+INFO: Removing recipe for Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Powered Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Activator Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Detector Rail
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Lucky Block
+INFO: Removing recipe for Iron Saw
+INFO: Removing recipe for Diamond Saw
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Framing Saw
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Reactor Chamber
+INFO: Removing recipe for Steam Reactor Chamber
+INFO: Removing recipe for Mass Fabricator
+INFO: Removing recipe for Induction Furnace
+INFO: Removing recipe for BatBox
+INFO: Removing recipe for MFE
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electric Furnace
+INFO: Removing recipe for Electronic Circuit
+INFO: Removing recipe for Nuclear Reactor
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Redstone Engine
+INFO: Removing recipe for Combustion Engine
+INFO: Removing recipe for Creative Engine
+INFO: Removing recipe for Wrench
+INFO: Removing recipe for Chisel
+INFO: Removing recipe for Diamond Chisel
+INFO: Removing recipe for Obsidian Chisel
+INFO: Removing recipe for Knapsack
+INFO: Removing recipe for Better Barrel
+INFO: Removing recipe for Crafting Table
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Iron Ingot
+INFO: Removing recipe for Copper Ingot
+INFO: Removing recipe for Refined Uranium Ingot
+INFO: Removing recipe for Tin Ingot
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Stone Rod
+INFO: Removing recipe for Obsidian Stick
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Advanced Machine Block
+INFO: Removing recipe for Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Removing recipe for Dark Oak Wood Planks
+INFO: Removing recipe for Stick
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 0 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 2 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Dark Oak Wood Planks
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Gold Ingot
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Refined Uranium Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Better Barrel
+INFO: Adding recipe for Knapsack
+INFO: Adding recipe for Obsidian Chisel
+INFO: Adding recipe for Diamond Chisel
+INFO: Adding recipe for Chisel
+INFO: Adding recipe for Wrench
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Redstone Engine
+INFO: Adding recipe for Nuclear Reactor
+INFO: Adding recipe for Electronic Circuit
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for Electric Furnace
+INFO: Adding recipe for MFE
+INFO: Adding recipe for BatBox
+INFO: Adding recipe for Induction Furnace
+INFO: Adding recipe for Mass Fabricator
+INFO: Adding recipe for Steam Reactor Chamber
+INFO: Adding recipe for Reactor Chamber
+INFO: Adding recipe for Advanced Machine Block
+INFO: Adding recipe for Obsidian Stick
+INFO: Adding recipe for Framing Saw
+INFO: Adding recipe for Stone Rod
+INFO: Adding recipe for Diamond Saw
+INFO: Adding recipe for Iron Saw
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Lucky Block
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Detector Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Activator Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Powered Rail
+INFO: Adding recipe for Rail
+INFO: Adding recipe for Minecart
+INFO: Adding recipe for Cauldron
+INFO: Adding recipe for Bookshelf
+INFO: Adding recipe for Stone Saw
+INFO: Adding recipe for Stick

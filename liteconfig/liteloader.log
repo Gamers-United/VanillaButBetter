@@ -1,0 +1,91 @@
+[19:02:57] [main/INFO]: LiteLoader 1.7.10_04 starting up...
+[19:02:57] [main/INFO]: Java reports OS="windows 7"
+[19:02:57] [main/INFO]: Enumerating class path...
+[19:02:57] [main/INFO]: Class path separator=";"
+[19:02:57] [main/INFO]: Class path entries=(
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\mumfrey\liteloader\1.7.10\liteloader-1.7.10.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.11\launchwrapper-1.11.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\16.0\guava-16.0.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\forge-1.7.10-10.13.4.1558-1.7.10.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\15.0\guava-15.0.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar
+   classpathEntry=C:\Users\Macauley\AppData\Roaming\.minecraft\versions\1.7.10\1.7.10.jar
+)
+[19:02:57] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[19:02:57] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\Macauley\Desktop\VBT\mods]
+[19:02:57] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\Macauley\Desktop\VBT\mods\1.7.10]
+[19:02:57] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[19:02:57] [main/INFO]: Discovering tweaks on class path...
+[19:02:57] [main/INFO]: Discovering valid mod files in folder C:\Users\Macauley\Desktop\VBT\mods
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\MouseTweaks-2.4.4-mc1.7.10.jar
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\MouseTweaks-2.4.4-mc1.7.10.jar' at revision 184.0000
+[19:02:57] [main/INFO]: Discovering valid mod files in folder C:\Users\Macauley\Desktop\VBT\mods\1.7.10
+[19:02:57] [main/INFO]: Searching for tweaks in 'Baubles-1.7.10-1.0.1.10.jar'
+[19:02:57] [main/WARN]: Error parsing manifest entries in 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\Baubles-1.7.10-1.0.1.10.jar'
+[19:02:57] [main/INFO]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
+[19:02:57] [main/WARN]: Error parsing manifest entries in 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
+[19:02:57] [main/INFO]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.1.0.309-universal.jar'
+[19:02:57] [main/WARN]: Error parsing manifest entries in 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\ForgeMultipart-1.7.10-1.1.0.309-universal.jar'
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\1.7.10\Gammabright v3.2.1 [MC 1.7.10].litemod
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_betterClouds-1.0.1_for_1.7.10.litemod
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_MAtmos_29ub4_mc1.7.10.litemod
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_noteblockdisplay_1.3.2_mc1.7.10.litemod
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod
+[19:02:57] [main/INFO]: Considering valid mod file: C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\Gammabright v3.2.1 [MC 1.7.10].litemod' at revision 28.0000
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod' at revision 1727.0000
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_betterClouds-1.0.1_for_1.7.10.litemod' at revision 1001.0000
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod' at revision 37.0000
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_MAtmos_29ub4_mc1.7.10.litemod' at revision 29.0000
+[19:02:57] [main/INFO]: Adding newest valid mod file 'C:\Users\Macauley\Desktop\VBT\mods\1.7.10\mod_noteblockdisplay_1.3.2_mc1.7.10.litemod' at revision 4.0000
+[19:02:57] [main/INFO]: Mod file 'mod_betterClouds-1.0.1_for_1.7.10.litemod' provides classTransformer 'com.mamiyaotaru.betterclouds.BetterCloudsTransformer', adding to class loader
+[19:02:57] [main/INFO]: classTransformer 'com.mamiyaotaru.betterclouds.BetterCloudsTransformer' was successfully added
+[19:02:57] [main/INFO]: Mod file 'mod_worldeditwrapper_1.2.0_we5.6.2_mc1.7.10.litemod' provides classTransformer 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer', adding to class loader
+[19:02:57] [main/INFO]: classTransformer 'com.mumfrey.worldeditwrapper.asm.InteractionTransformer' was successfully added
+[19:02:57] [main/INFO]: Mod file 'mod_noteblockdisplay_1.3.2_mc1.7.10.litemod' provides classTransformer 'xaero.mods.noteblockdisplay.BlockActionPacketTransformer', adding to class loader
+[19:02:57] [main/INFO]: classTransformer 'xaero.mods.noteblockdisplay.BlockActionPacketTransformer' was successfully added
+[19:02:57] [main/INFO]: LiteLoader PREINIT complete
